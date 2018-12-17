@@ -1,0 +1,13 @@
+Premium food keeps the animals healthy.
+It was an uneventful day.
+Wow! It was a good zoo day. You get a bonus $500 for each tiger.
+Congratulations! Your tiger had a baby.
+Congratulations! Your penguin had 5 babies.
+Congratulations! Your turtle had 10 babies.
+None of your animals are old enough to have babies.
+Oh no! One of your tigers has died of illness.
+You have no tigers.
+Oh no! One of your penguins has died of illness.
+You have no penguins.
+Oh no! One of your turtles has died of illness.
+You have no turtles.
